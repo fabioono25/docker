@@ -1,0 +1,22 @@
+# Ignore node_modules
+node_modules
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore build directories
+dist
+build
+
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
+
+# Ignore environment files
+.env
+
+# git
+.git
